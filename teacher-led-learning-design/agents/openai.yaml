@@ -1,0 +1,4 @@
+interface:
+  display_name: "朱老师教学产品设计"
+  short_description: "以教师判断、真实学习证据和清晰下一步，设计可持续迭代的语言学习产品"
+  default_prompt: "使用 $teacher-led-learning-design 分析这个教学产品需求，给出符合学习目标、角色职责和证据规则的具体方案。"

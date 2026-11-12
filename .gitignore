@@ -1,0 +1,11 @@
+# Local configuration and generated runtime files
+.env
+.env.*
+!.env.example
+*.log
+__pycache__/
+.DS_Store
+Thumbs.db
+
+# Local authoring runs; reviewed evaluation reports remain versionable
+.work/
